@@ -1,2 +1,2 @@
 # Cloudflarebypass
-This is a pythong script that bypass cloudflare.
+This is a pythong script that bypass Cloudflare.
